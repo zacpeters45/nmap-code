@@ -1,6 +1,4 @@
-# zac peters
-# 17/05/2026
-# Assignment Assessment 4 - Part 4
+
 
 # This program scans a target host for open, closed and filtered ports
 # using nmap. It also grabs banners from open ports and displays
